@@ -63,7 +63,7 @@ I build **fast, modern, and intelligent web apps** using MERN, AI integrations, 
   <a href="https://github.com/aryanwebx">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:aryanwebx@gmail.com">
+  <a href="mailto:aryanyadav9811@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
